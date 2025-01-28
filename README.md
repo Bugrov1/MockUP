@@ -16,4 +16,6 @@
 
 3.       Экран карты.  при зажатии на определённом месте всплывает bottomSheet где можно выбрать культуру и сохранить. В базу сохраняется номер кроптура, дата, координаты, культура.  Можно сделать всплывающий список вместо bottomSheet.
 
+https://www.figma.com/design/03Uz8IVDGqtiRqNqZZtt5x/Untitled?node-id=0-1&p=f&t=7WaZyt1EyCOq9Ef0-0
+
 ![image](https://github.com/user-attachments/assets/ed5b2ee0-3afd-49f4-87f1-25a2ddc15de2)
